@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Chỉnh sửa bởi beta
 Chỉnh sửa bởi Master
+=======
+Chỉnh sửa bởi beta
+>>>>>>> beta
